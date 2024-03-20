@@ -5,3 +5,7 @@ In this project, I took the Telco dataset from Kaggle (https://www.kaggle.com/da
 3. Used Logistic Regression and computed the accuracy (~79%), Decision Tree Classifier (~70%). Used GridSearchCV on top of Decision Tree Classifier algorithm to find the best parameters. Apparently, it increased accuracy: (training: ~79%) and (testing: ~77%).
 4. Lastly, I tried to use ANN using only one input and output layer with 100 epochs and layered it with early stopping with paramters. Acheived best accuracy in 39th epoch of ~81% in training, ~78% in evaluation and ~78% in testing.
 5. I also created a dashboard using Power BI (using UTM because I am using a Macbook).
+
+
+Tried Azure ML by providing the preprocessed data and following screenshot will show the result.
+<img width="1464" alt="Screenshot 2024-03-20 at 1 11 16 PM" src="https://github.com/Jaggi0504/Telco-Customer-Churn/assets/44519331/b10ee7ca-4e06-4c33-b2db-a4a833fd95fc">
