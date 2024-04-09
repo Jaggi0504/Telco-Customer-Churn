@@ -9,3 +9,6 @@ In this project, I took the Telco dataset from Kaggle (https://www.kaggle.com/da
 
 Tried Azure ML by providing the preprocessed data and following screenshot will show the result.
 <img width="1464" alt="Screenshot 2024-03-20 at 1 11 16 PM" src="https://github.com/Jaggi0504/Telco-Customer-Churn/assets/44519331/b10ee7ca-4e06-4c33-b2db-a4a833fd95fc">
+
+Visulization using Power BI
+<img width="869" alt="Screenshot 2024-04-08 at 9 14 09 PM" src="https://github.com/Jaggi0504/Telco-Customer-Churn/assets/44519331/7c20c36d-e794-4110-ac31-25a6b9dc905d">
