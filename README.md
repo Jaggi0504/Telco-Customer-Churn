@@ -12,3 +12,6 @@ Tried Azure ML by providing the preprocessed data and following screenshot will 
 
 Visulization using Power BI
 <img width="869" alt="Screenshot 2024-04-08 at 9 14 09 PM" src="https://github.com/Jaggi0504/Telco-Customer-Churn/assets/44519331/7c20c36d-e794-4110-ac31-25a6b9dc905d">
+
+Visualzing using Excel- Used Pivot charts and slicers for filtering the data after data transformation.
+<img width="1470" alt="ExcelScreenshot" src="https://github.com/Jaggi0504/Telco-Customer-Churn/assets/44519331/d1124403-6062-448a-a09a-4acafe5c18b3">
