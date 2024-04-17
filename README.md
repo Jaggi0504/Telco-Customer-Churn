@@ -4,7 +4,7 @@ In this project, I took the Telco dataset from Kaggle (https://www.kaggle.com/da
 2. Preprocessing: Removed the customerID column becasue it was not important to predict the churn rate. Some columns contained only 'yes' and 'no', so I converted them into 1 and 0 and performed one-hot encoding using get_dummies function on some of the columns.
 3. Used Logistic Regression and computed the accuracy (~79%), Decision Tree Classifier (~70%). Used GridSearchCV on top of Decision Tree Classifier algorithm to find the best parameters. Apparently, it increased accuracy: (training: ~79%) and (testing: ~77%).
 4. Lastly, I tried to use ANN using only one input and output layer with 100 epochs and layered it with early stopping with paramters. Acheived best accuracy in 39th epoch of ~81% in training, ~78% in evaluation and ~78% in testing.
-5. I also created a dashboard using Power BI (using UTM because I am using a Macbook).
+5. I also created a dashboard using Power BI.
 
 
 Tried Azure ML by providing the preprocessed data and following screenshot will show the result.
